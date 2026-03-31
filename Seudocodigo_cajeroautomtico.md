@@ -17,4 +17,6 @@ inicio
 
 -Billetes 10= x div 10
 
+mostrar cantidad de billetes 
+
 fin
